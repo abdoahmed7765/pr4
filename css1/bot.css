@@ -1,0 +1,9 @@
+:root{
+    --min-color: ;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Work Sans', sans-serif;
+}
